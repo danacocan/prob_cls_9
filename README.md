@@ -13,4 +13,5 @@ have fun
 - prob4.py - divizori proprii ai unui numar
 - prob5.py - for loop1
 - prob6.py - for nr par
-- prob7 - suma gauss
+- prob7.py - suma gauss
+- prob8.py - 2* suma gauss
