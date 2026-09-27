@@ -11,3 +11,6 @@ have fun
 - prob2.py - numar total de cifre
 - prob3.py - numar de cifra doi dintr-un numar
 - prob4.py - divizori proprii ai unui numar
+- prob5.py - for loop1
+- prob6.py - for nr par
+- prob7 - suma gauss
