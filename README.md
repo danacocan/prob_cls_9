@@ -15,3 +15,4 @@ have fun
 - prob6.py - for nr par
 - prob7.py - suma gauss
 - prob8.py - 2* suma gauss
+- prob9.py - nr norocoase: pbinfo #1892
