@@ -17,3 +17,4 @@ have fun
 - prob8.py - 2* suma gauss
 - prob9.py - nr norocoase: pbinfo #1892
 - prob10.py - functia max
+- functii.py - exemple de functii
