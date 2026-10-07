@@ -18,3 +18,4 @@ have fun
 - prob9.py - nr norocoase: pbinfo #1892
 - prob10.py - functia max
 - functii.py - exemple de functii
+- prob_palindrom.py - palindrom cu functii
